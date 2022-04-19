@@ -1,0 +1,31 @@
+@import url('https://fonts.gogleapis.com/css?family=Poppins:400,500,700');
+
+html,body {
+
+    height: 100%;
+    width: 100%;
+    font-family:'Poppins',sans-serif;
+    color:#222;
+    background-color: rgb(12, 10, 10);
+    
+    
+}
+
+.jumbotron{
+    padding: 2rem;
+    border: 2px solid rgb(3, 10, 9);
+    background-color: rgb(42, 95, 131);
+    color: aliceblue;
+    text-align: center;
+}
+
+.container-sm{
+    text-align:justify;
+    color: white;
+}
+
+.display-6{
+   padding: 1rem;
+   
+}
+
